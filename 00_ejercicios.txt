@@ -1,0 +1,21 @@
+Realizar diagramas entidad relación de las siguientes problemáticas.
+
+
+Problemática: Una escuela necesita gestionar los alumnos y los cursos en los que están
+inscritos. Cada alumno puede inscribirse en varios cursos y cada curso puede
+tener varios alumnos.
+
+
+Problemática: Una tienda necesita gestionar las
+ventas, los clientes y los productos. Cada venta tiene un cliente asociado y
+puede incluir varios productos.
+
+
+Problemática: Una empresa necesita gestionar los
+proyectos y los empleados que trabajan en ellos. Cada empleado puede trabajar
+en varios proyectos y cada proyecto puede tener varios empleados.
+
+
+Problemática: Un hospital necesita gestionar a sus
+pacientes, médicos y las consultas que se realizan. Cada paciente puede tener
+múltiples consultas, y cada consulta es atendida por un médico.
