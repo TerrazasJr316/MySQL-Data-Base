@@ -1,7 +1,0 @@
-
-CREATE TABLE producto(
-id_producto INT PRIMARY KEY AUTO_INCREMENT,
-nombre VARCHAR(30) NOT NULL,
-marca VARCHAR(30) NOT NULL,
-caducidad DATE
-);

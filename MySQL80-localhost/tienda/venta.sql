@@ -1,4 +1,0 @@
-CREATE TABLE venta(
-id_venta INT PRIMARY KEY AUTO_INCREMENT,
-fecha DATE NOT NULL
-);
