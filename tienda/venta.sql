@@ -1,4 +1,3 @@
-
 CREATE TABLE venta (
 id_venta INT PRIMARY KEY AUTO_INCREMENT,
 articulo VARCHAR(50) NOT NULL,
