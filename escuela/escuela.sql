@@ -6,4 +6,3 @@ apellido1 VARCHAR(30) NOT NULL,
 apellido2 VARCHAR(30) NOT NULL,
 fechaNacimiento DATE
 );
-
