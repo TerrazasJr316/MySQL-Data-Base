@@ -1,5 +1,6 @@
 CREATE TABLE direccion(
 id_direccion INT,
+id_cliente INT,
 calle VARCHAR(255),
 codigo_postal INT,
 numero_interior INT,
