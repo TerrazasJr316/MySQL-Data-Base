@@ -1,0 +1,6 @@
+CREATE TABLE empleado(
+id_empleado INT AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(255) NOT NULL,
+email VARCHAR(255) NOT NULL,
+salario INT CHECK(LIKE <=300 & >= 50000)
+);
