@@ -6,7 +6,7 @@ CREATE TABLE clientes (
     direccion VARCHAR(255) NOT NULL
 );
 
-# CREATE
+--CREATE
 
 INSERT INTO clientes (nombre, email, telefono, direccion) VALUES(
 'Juan', 
@@ -41,7 +41,7 @@ INSERT INTO clientes (nombre, email, telefono, direccion) VALUES(
 'Calle de los Vientos 404'
 );
 
-# READ
+--READ
 
 SELECT * FROM clientes;
 
@@ -69,7 +69,7 @@ UPDATE clientes SET direccion = 'Nueva Dirección' WHERE nombre LIKE '%López%';
 
 UPDATE clientes SET id_cliente = id_cliente + 10;
 
-# DELETE
+--DELETE
 
 DELETE FROM clientes WHERE id_cliente = 1;
 
